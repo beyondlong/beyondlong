@@ -21,22 +21,9 @@
   },
   "educationList": [
     {
-      "edu_time": [
-        "2019.09",
-        "2021.09"
-      ],
       "school": "北京理工大学",
       "major": "计算机科学与技术",
       "academic_degree": "本科"
-    },
-    {
-      "edu_time": [
-        "2009.09",
-        "2011.06"
-      ],
-      "school": "吉林工程技术师范学院",
-      "major": "计算机应用技术",
-      "academic_degree": "专科"
     }
   ],
   "awardList": [
