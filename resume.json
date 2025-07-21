@@ -17,7 +17,7 @@
     "email": "xinglongking@gmail.com",
     "mobile": "15652797578",
     "github": "https://github.com/longlong2123",
-    "workExpYear": "10年"
+    "workExpYear": "13年"
   },
   "educationList": [
     {
@@ -38,12 +38,16 @@
     {
       "award_info": "2022年度金牌员工 技术突破奖”",
       "award_time": "2023.01"
+    },
+    {
+      "award_info": "2024年度金牌员工 技术突破奖”",
+      "award_time": "2025.03"
     }
   ],
   "workExpList": [
     {
       "company_name": "北京数字认证股份有限公司",
-      "department_name": "Ca技术部",
+      "department_name": "CA技术部",
       "work_time": [
         "2018.04",
         null
