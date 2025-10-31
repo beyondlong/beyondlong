@@ -17,14 +17,11 @@
     "email": "xinglongking@gmail.com",
     "mobile": "15652797578",
     "github": "https://github.com/longlong2123",
-    "zhihu": "https://www.zhihu.com/people/visiky",
     "workExpYear": ""
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
       ],
       "school": "北京理工大学",
       "major": "计算机科学与技术",
@@ -32,8 +29,6 @@
     },
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
       ],
       "school": "吉林⼯程技术师范学院",
       "major": "计算机应用技术",
