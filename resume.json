@@ -9,21 +9,25 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "\thttps://avatars.githubusercontent.com/u/16423155?v=4",
+    "src": "https://avatars.githubusercontent.com/u/16423155?v=4",
     "hidden": false
   },
   "profile": {
     "name": "杨兴隆",
     "email": "xinglongking@gmail.com",
     "mobile": "15652797578",
-    "github": "https://github.com/longlong2123",
-    "workExpYear": "13年"
+    "github": "https://github.com/longlong2123"
   },
   "educationList": [
     {
       "school": "北京理工大学",
       "major": "计算机科学与技术",
       "academic_degree": "本科"
+    },
+    {
+      "school": "吉林⼯程技术师范学院",
+      "major": "计算机应用技术",
+      "academic_degree": "专科"
     }
   ],
   "awardList": [
@@ -36,12 +40,20 @@
       "award_time": "2020.07"
     },
     {
-      "award_info": "2022年度金牌员工 技术突破奖”",
+      "award_info": "2022年度金牌员工 技术突破奖",
       "award_time": "2023.01"
     },
     {
-      "award_info": "2024年度金牌员工 技术突破奖”",
+      "award_info": "第一专利发明人，发表《用于车联网的系统互认方法、装置及设备》专利",
+      "award_time": "2024.10"
+    },
+    {
+      "award_info": "2024年度金牌员工 技术突破奖",
       "award_time": "2025.03"
+    },
+    {
+      "award_info": "第一专利发明人，发表《一种稀疏默克尔树存储和验证方法、介质、装置及设备》专利",
+      "award_time": "2025.06"
     }
   ],
   "workExpList": [
@@ -50,7 +62,7 @@
       "department_name": "CA技术部",
       "work_time": [
         "2018.04",
-        null
+        "2025.11"
       ],
       "work_desc": "1. 担任“密钥管理”和“车联网”产品后端负责人\r\n2. 负责CA产品中（RA、CA、KM）系统建设\n3. 密钥管理系统产品重构，负责底层框架搭建和密钥核心库开发等\n4. 车联网运营服务需求调研、功能设计、功能研发，完成最终预上线和生产环境上线工作，实现了公司V2X自运营服务从无到有、从零到一的突破"
     },
