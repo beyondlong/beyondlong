@@ -21,11 +21,15 @@
   },
   "educationList": [
     {
+      "edu_time": [
+      ],
       "school": "北京理工大学",
       "major": "计算机科学与技术",
       "academic_degree": "本科"
     },
     {
+      "edu_time": [
+      ],
       "school": "吉林⼯程技术师范学院",
       "major": "计算机应用技术",
       "academic_degree": "专科"
